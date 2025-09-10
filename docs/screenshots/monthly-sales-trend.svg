@@ -1,0 +1,39 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='380' viewBox='0 0 1000 380'>
+<rect x='0' y='0' width='1000' height='380' fill='white' />
+<line x1='60' y1='320' x2='940' y2='320' stroke='#9ca3af'/>
+<line x1='60' y1='60' x2='60' y2='320' stroke='#9ca3af'/>
+<polyline fill='none' stroke='#2563eb' stroke-width='3' points='60.0,208.68123399999985 133.33333333333331,151.94858399999987 206.66666666666666,133.4098429999999 280.0,155.75183800000002 353.3333333333333,148.9223919999998 426.6666666666667,167.97556899999998 500.0,149.91210800000016 573.3333333333334,138.84577999999973 646.6666666666666,134.30161699999994 720.0,161.5444040000001 793.3333333333334,152.71986099999998 866.6666666666666,146.2734079999998 940.0,258.24571'/>
+<circle cx='60.0' cy='208.68123399999985' r='3.5' fill='#2563eb' />
+<circle cx='133.33333333333331' cy='151.94858399999987' r='3.5' fill='#2563eb' />
+<circle cx='206.66666666666666' cy='133.4098429999999' r='3.5' fill='#2563eb' />
+<circle cx='280.0' cy='155.75183800000002' r='3.5' fill='#2563eb' />
+<circle cx='353.3333333333333' cy='148.9223919999998' r='3.5' fill='#2563eb' />
+<circle cx='426.6666666666667' cy='167.97556899999998' r='3.5' fill='#2563eb' />
+<circle cx='500.0' cy='149.91210800000016' r='3.5' fill='#2563eb' />
+<circle cx='573.3333333333334' cy='138.84577999999973' r='3.5' fill='#2563eb' />
+<circle cx='646.6666666666666' cy='134.30161699999994' r='3.5' fill='#2563eb' />
+<circle cx='720.0' cy='161.5444040000001' r='3.5' fill='#2563eb' />
+<circle cx='793.3333333333334' cy='152.71986099999998' r='3.5' fill='#2563eb' />
+<circle cx='866.6666666666666' cy='146.2734079999998' r='3.5' fill='#2563eb' />
+<circle cx='940.0' cy='258.24571' r='3.5' fill='#2563eb' />
+<text x='500' y='28' font-size='18' font-weight='700' text-anchor='middle'>Monthly Sales Trend</text>
+<line x1='55' y1='320.0' x2='60' y2='320.0' stroke='#9ca3af'/>
+<text x='50' y='324.0' font-size='12' text-anchor='end'>$0</text>
+<line x1='55' y1='268.0' x2='60' y2='268.0' stroke='#9ca3af'/>
+<text x='50' y='272.0' font-size='12' text-anchor='end'>$40,000</text>
+<line x1='55' y1='216.0' x2='60' y2='216.0' stroke='#9ca3af'/>
+<text x='50' y='220.0' font-size='12' text-anchor='end'>$80,000</text>
+<line x1='55' y1='164.0' x2='60' y2='164.0' stroke='#9ca3af'/>
+<text x='50' y='168.0' font-size='12' text-anchor='end'>$120,000</text>
+<line x1='55' y1='112.0' x2='60' y2='112.0' stroke='#9ca3af'/>
+<text x='50' y='116.0' font-size='12' text-anchor='end'>$160,000</text>
+<line x1='55' y1='60.0' x2='60' y2='60.0' stroke='#9ca3af'/>
+<text x='50' y='64.0' font-size='12' text-anchor='end'>$200,000</text>
+<text x='60.0' y='360' font-size='12' text-anchor='middle'>Sep 24</text>
+<text x='206.66666666666666' y='360' font-size='12' text-anchor='middle'>Nov 24</text>
+<text x='353.3333333333333' y='360' font-size='12' text-anchor='middle'>Jan 25</text>
+<text x='500.0' y='360' font-size='12' text-anchor='middle'>Mar 25</text>
+<text x='646.6666666666666' y='360' font-size='12' text-anchor='middle'>May 25</text>
+<text x='793.3333333333334' y='360' font-size='12' text-anchor='middle'>Jul 25</text>
+<text x='940.0' y='360' font-size='12' text-anchor='middle'>Sep 25</text>
+</svg>

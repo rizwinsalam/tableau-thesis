@@ -13,7 +13,18 @@ This project demonstrates best practices for Tableau dashboard design:
 - Performance‑aware calculations and extracts
 
 ## Screenshots
-<img width="804" alt="Main Dashboard" src="docs/screenshots/example.png">
+
+### KPI Summary
+<img src="docs/screenshots/kpi-summary.svg" width="880" alt="KPI Summary showing total sales, profit, margin, and avg discount"/>
+
+### Monthly Sales Trend
+<img src="docs/screenshots/monthly-sales-trend.svg" width="880" alt="Line chart of monthly sales trend"/>
+
+### Sales by Category
+<img src="docs/screenshots/sales-by-category.svg" width="720" alt="Horizontal bar chart: sales by category"/>
+
+### Profit vs Discount
+<img src="docs/screenshots/profit-vs-discount.svg" width="820" alt="Scatter plot of profit versus discount sized by quantity"/>
 
 Add more screenshots in `docs/screenshots/` and reference them here.
 
@@ -43,7 +54,7 @@ python3 scripts/generate_synthetic_sales.py
 For detailed workbook guidance, see `tableau/README.md`.
 
 ## Project Structure
-- `scripts/` — data generator
+- `scripts/` — data generator & chart scripts
 - `data/` — generated CSV for Tableau
 - `tableau/` — workbook files (.twb/.twbx) and guidance
 - `docs/architecture.md` — data flow, calculations, and performance notes
@@ -51,7 +62,7 @@ For detailed workbook guidance, see `tableau/README.md`.
 - `docs/project-brief.md` — goals, users, scope, success criteria
 - `docs/data-dictionary.md` — field definitions
 - `docs/storyboard.md` — dashboard plan
-- `docs/screenshots/` — PNGs/GIFs of key flows
+- `docs/screenshots/` — PNG/SVG exports of key flows
 - `tableau thesis.docx` — original write‑up (source notes)
 
 ## Implementation Highlights
