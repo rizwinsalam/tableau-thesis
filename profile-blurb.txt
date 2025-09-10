@@ -1,0 +1,1 @@
+Built an interactive Tableau dashboard portfolio (Executive overview, drill-down analysis, data quality view) with performance-aware calculations, intuitive filters, and clear KPI storytelling. Published to Tableau Public with supporting docs (architecture, case study) and professional README. Code: github.com/rizwinsalam/tableau-thesis
