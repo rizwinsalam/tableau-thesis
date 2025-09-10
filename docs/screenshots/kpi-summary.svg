@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='220' viewBox='0 0 1000 220'>
+<rect x='0' y='0' width='1000' height='220' fill='white' />
+<text x='80' y='70' font-size='18' fill='#6b7280' text-anchor='middle'>Total Sales</text>
+<text x='80' y='140' font-size='34' font-weight='700' fill='#111827' text-anchor='middle'>$1,578,052</text>
+<text x='360' y='70' font-size='18' fill='#6b7280' text-anchor='middle'>Total Profit</text>
+<text x='360' y='140' font-size='34' font-weight='700' fill='#111827' text-anchor='middle'>$551,941</text>
+<text x='640' y='70' font-size='18' fill='#6b7280' text-anchor='middle'>Margin</text>
+<text x='640' y='140' font-size='34' font-weight='700' fill='#111827' text-anchor='middle'>35.0%</text>
+<text x='840' y='70' font-size='18' fill='#6b7280' text-anchor='middle'>Avg Discount</text>
+<text x='840' y='140' font-size='34' font-weight='700' fill='#111827' text-anchor='middle'>12.1%</text>
+</svg>
